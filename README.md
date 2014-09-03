@@ -40,16 +40,14 @@ Hydra Connect 2014 Presentation
     * Reproduceable, standard environment
     * Can be used before real servers are available
     * Use tools like Vagrant and Puppet
-* Fedora and solr core
-    * easy when inside jetty, but difficult in production
-    * tweaks for production
-    * security and aaccess
-    * learn early on so it’s not so hard later
-* collaboration with sys ops
-    * sys ops unfamiliar with managing and configuring hydra stack components
-    * double-check and verify backup procedures - checksums
-    * root access?
-
+* Fedora and Solr
+    * They are easy to use inside hydra-jetty, but hard in production
+    * Security needs to be addressed
+    * Learn them early so it is not so hard later
+* Collaboration with sysadmins
+    * Many of these tools are unfamiliar to sysadmins (Fedora, Solr, Rescue, etc.)
+    * Double-check and verify backup procedures - checksums
+    * Negotiate how much command line access you need
 
 #### Developer collaboration
 * Gitflow
