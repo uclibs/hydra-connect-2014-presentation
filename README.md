@@ -30,15 +30,16 @@ Hydra Connect 2014 Presentation
     * rake tasks
 
 #### System/Stack deployment (Glen)
-* managing sensitive information
-    * bamboo scripts / environment variables
-    * config vault - private storage
-* virtual deployment environments
-    * mimick production environment
-    * scalability - jetty -> passenger
-    * standard environment for developers
-    * try a production environment before the real one is ready
-    * vagrant, puppet
+* Don't put sensitive content into Git
+    * Git history will remember
+    * Use .example or .sample files
+    * Use "variables" that will be swapped during deploy
+    * Store real content in a safe location
+* Virtual server environments
+    * Mimick a production environment locally
+    * Reproduceable, standard environment
+    * Can be used before real servers are available
+    * Use tools like Vagrant and Puppet
 * Fedora and solr core
     * easy when inside jetty, but difficult in production
     * tweaks for production
