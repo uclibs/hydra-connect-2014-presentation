@@ -50,16 +50,21 @@ Hydra Connect 2014 Presentation
     * Negotiate how much command line access you need
 
 #### Developer collaboration
-* Gitflow
-    * good commit messages
-    * good branch names / strategy
-    * good collaboration structure
-* develop a script for QA
-    * don’t rely on spec tests alone
-* being a good contributer
-    * squashing commits
-    * talking the talk
-    * pull requests - don’t merge your own
-    * get involved in a gem
+* Use a development workflow
+    * "Gitflow" is a good one
+    * Use good commit messages
+    * Use good branch names / strategy
+    * Use a good collaboration structure
+* Develop a script for quality assurance
+    * Don’t rely on spec tests alone
+    * Document steps to check your app before deploying to production
+* Be a good contributer
+    * Squash commits
+    * Talk the talk
+    * Don't merge your own pull requests
+    * Get involved in a gem
 * Collaboration tables and monitors
-* Agile: lots of value in swarms and scrums
+    * (show a pic of our set up)
+    * Great for swarming
+* Swarms and scrums
+    * Schedule regular times to update and work with each other
