@@ -16,7 +16,7 @@ Hydra Connect 2014 Presentation
 * don’t reinvent the wheel - look at what others have done
     * rake tasks, config files, Travis config
 * IRC chat / committers calls / tech list / camps / git repos
-
+* Set up a sandbox server to try out other Hydra projects
 
 #### Rails applications (Thomas)
 * managing updates - things change without changing your code
@@ -46,6 +46,8 @@ Hydra Connect 2014 Presentation
     * learn early on so it’s not so hard later
 * collaboration with sys ops
     * sys ops unfamiliar with managing and configuring hydra stack components
+    * double-check and verify backup procedures - checksums
+    * root access?
 
 
 #### Developer collaboration
@@ -60,3 +62,5 @@ Hydra Connect 2014 Presentation
     * talking the talk
     * pull requests - don’t merge your own
     * get involved in a gem
+* Collaboration tables and monitors
+* Agile: lots of value in swarms and scrums
