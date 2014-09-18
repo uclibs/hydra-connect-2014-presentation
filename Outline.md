@@ -12,11 +12,18 @@ Hydra Connect 2014 Presentation
 
 ## Topics
 
-#### Hydra community
-* don’t reinvent the wheel - look at what others have done
-    * rake tasks, config files, Travis config
-* IRC chat / committers calls / tech list / camps / git repos
-* Set up a sandbox server to try out other Hydra projects
+#### Hydra Community
+* Don’t reinvent the wheel
+    * Look at what others have done
+    * "Borrow" others' rake tasks, config files, Travis config, etc.
+* Get involved
+   * IRC chat
+   * Committers calls
+   * Hydra-tech email list
+   * Hydra Camps
+   * Git repositories
+* Set up a sandbox server
+    * Try out other Hydra projects
 
 #### Rails applications (Thomas)
 * managing updates - things change without changing your code
