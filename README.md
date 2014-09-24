@@ -27,7 +27,7 @@
 #### System/Stack deployment (Glen)
 * Don't put sensitive content into Git
     * Git history will remember
-    * Use .example or .sample files
+    * Use .example or .sample files instead
     * Use "variables" that will be swapped during deploy
     * Store real content in a safe location
 * Virtual server environments
@@ -38,9 +38,10 @@
 * Fedora and Solr
     * They are easy to use inside hydra-jetty, but hard in production
     * Security needs to be addressed
-    * Learn them early so it is not so hard later
+    * Learn them early so it's not so hard later
 * Collaboration with sysadmins
-    * Many of these tools are unfamiliar to sysadmins (Fedora, Solr, Rescue, etc.)
+    * Many of these tools are unfamiliar to sysadmins
+    * Fedora, Solr, Rescue, etc.
     * Double-check and verify backup procedures - checksums
     * Negotiate how much command line access you need
 
