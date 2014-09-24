@@ -51,16 +51,13 @@
     * Use good commit messages
     * Use good branch names / strategy
     * Use a good collaboration structure
-* Develop a script for quality assurance
+    * Adapt it to your needs
+* Follow a script for quality assurance
     * Don’t rely on spec tests alone
-    * Document steps to check your app before deploying to production
-* Be a good contributer
-    * Squash commits
-    * Talk the talk
-    * Don't merge your own pull requests
-    * Get involved in a gem
+    * Document the steps to check your app before deploying
 * Collaboration tables and monitors
     * (show a pic of our set up)
     * Great for swarming
 * Swarms and scrums
     * Schedule regular times to update and work with each other
+* Get involved in a gem
