@@ -1,6 +1,6 @@
 ## One Year with Hydra: <br />What we know now;<br />What we wish we knew earlier
 
-#### Hydra Community
+#### Hydra Community (Thomas)
 * Don’t reinvent the wheel
     * Look at what others have done
     * "Borrow" others' rake tasks, config files, Travis config, etc.
@@ -44,7 +44,7 @@
     * Double-check and verify backup procedures - checksums
     * Negotiate how much command line access you need
 
-#### Developer collaboration
+#### Developer collaboration (Glen)
 * Use a development workflow
     * "Gitflow" is a good one
     * Use good commit messages
